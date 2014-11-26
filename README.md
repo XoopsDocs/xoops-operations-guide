@@ -1,0 +1,4 @@
+operationsguide
+===============
+
+XOOPS Operations Guide
