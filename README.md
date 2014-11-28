@@ -2,7 +2,7 @@ XOOPS Operations Guide
 =======
 ![Alternative text](assets/logoXoops2.jpg)
 
-XOOPS is a Content Management System (CSM) and a Web Portal program that allows administrators to easily create dynamic websites with great content and many outstanding features. It is an ideal tool for developing small to large dynamic community websites, intra company portals, corporate portals, weblogs and much more. It can be installed on an Internet host with a PHP-capable web server (e.g., Apache) and a database (e.g., MySQL).
+**[XOOPS](http://www.xoops.org)** is a Content Management System (CSM) and a Web Portal program that allows administrators to easily create dynamic websites with great content and many outstanding features. It is an ideal tool for developing small to large dynamic community websites, intra company portals, corporate portals, weblogs and much more. It can be installed on an Internet host with a PHP-capable web server (e.g., Apache) and a database (e.g., MySQL).
 
 **The main Project websites is [www.xooops.org](http://xoops.org)**
 
@@ -10,7 +10,7 @@ XOOPS is released under the terms of the GNU General Public License (GPL) and is
 
 **What XOOPS stands for:**
 
-XOOPS is an acronym of e**X**tensible **O**bject **O**riented **P**ortal **S**ystem. Though started as a portal system, XOOPS is in fact striving steadily on the track of Content Management System. It can serve as a web framework for use by small, medium and large sites.
+XOOPS is an acronym of e<strong>X</strong>tensible <strong>O</strong>bject <strong>O</strong>riented <strong>P</strong>ortal <strong>S</strong>ystem. Though started as a portal system, XOOPS is in fact striving steadily on the track of Content Management System. It can serve as a web framework for use by small, medium and large sites.
 
 It is highly scalable, from a personal weblog or journal through a community website to an enterprise installation. It has numerous modules that can be used to create all the basic functionality required of the system, e.g. News, Forums, Downloads, MyLinks etc.  Customized modules can also be developed by users and integrated seamlessly with the core to serve specific needs such as eCommerrce.
 
@@ -52,7 +52,7 @@ XOOPS comes with a powerful and user-friendly permissions system which enables a
 
 XOOPS is driven by a powerful theme system. Both administrators and users can change the look of the entire web site with just a click of a mouse. There are also over 60 themes available for download!!
 
-**XOOPS has received numerous awards: **
+**XOOPS has received numerous awards:**
 
 It was a Finalist for the Best Project of SourceForge 2008 Community Awards and finalist for Best PHP Open Source CMS organized by Packt Publishing.  In addition, XOOPS received Awards from “Adobe Edge” as a Top CMS, received 5 out of 5 Stars from Germany's CHIP Magazine, or placed as a top CMS on a list published by ONDD.
 
