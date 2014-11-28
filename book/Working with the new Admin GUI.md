@@ -15,21 +15,21 @@ that provide a direct access to the System Options:
 
 |Icon|Function|
 |---|---|
-|![img_5.jpg](../assets/img_5.jpg) |Avatars|
-|![img_6.jpg](../assets/img_6.jpg) |Banners |
-|![img_6.jpg](../assets/img_7.jpg) |Blocks|
-|![img_6.jpg](../assets/img_8.jpg) |Comments|
-|![img_6.jpg](../assets/img_9.jpg) |Groups|
-|![img_6.jpg](../assets/img_10.jpg) |Image Manager|
-|![img_6.jpg](../assets/img_11.jpg) |Mail Users|
-|![img_6.jpg](../assets/img_12.jpg) |Maintenance|
-|![img_6.jpg](../assets/img_13.jpg) |Modules|
-|![img_6.jpg](../assets/img_14.jpg) |Preferences|
-|![img_6.jpg](../assets/img_15.jpg) |Smilies|
-|![img_6.jpg](../assets/img_16.jpg) |Templates|
-|![img_6.jpg](../assets/img_17.jpg) |User Ranks|
-|![img_6.jpg](../assets/img_18.jpg) |Users|
-|![img_6.jpg](../assets/img_19.jpg) |Help|
+|![img_5.jpg](../assets/avatar.png) |Avatars|
+|![img_6.jpg](../assets/banners.png) |Banners |
+|![img_6.jpg](../assets/blocks.png) |Blocks|
+|![img_6.jpg](../assets/comments.png) |Comments|
+|![img_6.jpg](../assets/groups.png) |Groups|
+|![img_6.jpg](../assets/images.png) |Image Manager|
+|![img_6.jpg](../assets/mailuser.png) |Mail Users|
+|![img_6.jpg](../assets/maintenance.png) |Maintenance|
+|![img_6.jpg](../assets/modules.png) |Modules|
+|![img_6.jpg](../assets/prefs.png) |Preferences|
+|![img_6.jpg](../assets/smilies.png) |Smilies|
+|![img_6.jpg](../assets/tpls.png) |Templates|
+|![img_6.jpg](../assets/userrank.png) |User Ranks|
+|![img_6.jpg](../assets/edituser.png) |Users|
+|![img_6.jpg](../assets/help.png) |Help|
 
 
 2) The System Options are also visible in the Pane (2) 
@@ -51,11 +51,11 @@ The new Tabs provide extra information for the Administrator:
 
 |Icon|Function|
 |---|---|
-|![img_5.jpg](../assets/img_29.jpg) |Help|
-|![img_6.jpg](../assets/img_30.jpg) |Waiting Content |
-|![img_6.jpg](../assets/img_31.jpg) |New Members|
-|![img_6.jpg](../assets/img_32.jpg) |Top Posters|
-|![img_6.jpg](../assets/img_33.jpg) |Recent Comments|
+|![img_5.jpg](../assets/help.png) |Help|
+|![img_6.jpg](../assets/waiting.png) |Waiting Content |
+|![img_6.jpg](../assets/edituser.png) |New Members|
+|![img_6.jpg](../assets/newuser.png) |Top Posters|
+|![img_6.jpg](../assets/comments.png) |Recent Comments|
 
 
 XOOPS 2.5.0 provides couple of “skins” that you can change for a different look of the default theme, with currently available: Dark and Silver: 
