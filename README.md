@@ -10,7 +10,7 @@ XOOPS is released under the terms of the GNU General Public License (GPL) and is
 
 **What XOOPS stands for:**
 
-XOOPS is an acronym of e**X**tensible **O**bject **O**riented **P**ortal **S**ystem. Though started as a portal system, XOOPS is in fact striving steadily on the track of Content Management System. It can serve as a web framework for use by small, medium and large sites.
+XOOPS is an acronym of e<strong>X</strong>tensible <strong>O</strong>bject <strong>O</strong>riented <strong>P</strong>ortal <strong>S</strong>ystem. Though started as a portal system, XOOPS is in fact striving steadily on the track of Content Management System. It can serve as a web framework for use by small, medium and large sites.
 
 It is highly scalable, from a personal weblog or journal through a community website to an enterprise installation. It has numerous modules that can be used to create all the basic functionality required of the system, e.g. News, Forums, Downloads, MyLinks etc.  Customized modules can also be developed by users and integrated seamlessly with the core to serve specific needs such as eCommerrce.
 
