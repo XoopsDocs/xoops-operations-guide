@@ -10,7 +10,7 @@
    * [Language Files](book/Language Files.md)
    * [Themes and Templates](book/Themes and Templates.md)
 * [The Admin Interface](book/Admininterface0.md)
-   * [Logging](book/Logging.md)
+   * Logging]
        * [As Site Administrator](book/As Site Administrator.md)
        * [As Registered User](book/As Registered User.md)    
        * [Incorrect Login Procedure](book/Incorrect Login Procedure.md)
