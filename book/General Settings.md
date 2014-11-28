@@ -2,7 +2,7 @@
 
 
 | Field |	Description |
-| -- | -- |
+| --- | --- |
 | Site name |This will be used as the title of your site. This is what will be displayed in the < title>  html tag of your site’s pages the name of current module is also appended. |
 |Slogan for your site | The slogan of your site will be appended to your site name (title) if you select ‘none’ as the module for your start page (see below). It may also appear in on screen in some themes.|
 |Admin mail address|Enter the email address you want to use for administrative purposes here.|
