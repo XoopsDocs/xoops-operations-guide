@@ -52,7 +52,7 @@ XOOPS comes with a powerful and user-friendly permissions system which enables a
 
 XOOPS is driven by a powerful theme system. Both administrators and users can change the look of the entire web site with just a click of a mouse. There are also over 60 themes available for download!!
 
-**XOOPS has received numerous awards: **
+**XOOPS has received numerous awards:**
 
 It was a Finalist for the Best Project of SourceForge 2008 Community Awards and finalist for Best PHP Open Source CMS organized by Packt Publishing.  In addition, XOOPS received Awards from “Adobe Edge” as a Top CMS, received 5 out of 5 Stars from Germany's CHIP Magazine, or placed as a top CMS on a list published by ONDD.
 
