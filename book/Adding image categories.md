@@ -7,7 +7,7 @@ You must create at least one category before you can upload images.
 The configuration options are summarised below:
 
 | Field | Description |
-| -- | -- |
+| --- | --- |
 |Category name:|	Give your category an appropriate name. Keep it short, as people will select it through a drop-down box.|
 |Select groups for image manager use|	Select the user groups that you want to be able to access the images in this category. These groups will be able to see and select images (for use in submissions etc.) but cannot upload new images. The Webmaster group has access by default.|
 |Select groups allowed to upload images:|	Select the user groups you want to permit to upload new images into this category. The default is upload by the Webmaster group only. Typically upload rights are given to trusted (administrative) groups only. Bear in mind that if you allow the general public to upload images they may send in some offensive ones.|
