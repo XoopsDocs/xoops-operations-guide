@@ -1,0 +1,38 @@
+### 2.13.1	General Settings
+
+
+| Field |	Description |
+| --- | --- |
+| Site name |This will be used as the title of your site. This is what will be displayed in the < title>  html tag of your site’s pages the name of current module is also appended. |
+|Slogan for your site | The slogan of your site will be appended to your site name (title) if you select ‘none’ as the module for your start page (see below). It may also appear in on screen in some themes.|
+|Admin mail address|Enter the email address you want to use for administrative purposes here.|
+|Default language|	If you have more than one language installed you can choose which one you want the site to display when a user first visits your site.|
+|Module for your start page|	You can select any installed module to be the ‘home page’ for your site – for example, many people like to use the news module. You also have the option to select ‘none’ – this gives you a blank page that you can customise as you see fit.|
+|Server timezone|	Enter the time zone that your server is located in.|
+|Default timezone|	Enter the time zone that you want to use for administrative purposes. This would normally be the one in which the owner or main clientele of the site live.|
+|Control Panel GUI	|Set the theme you want displayed in your Admin (if you have more than one installed).|
+|Default theme|	Set the theme you want displayed when people first arrive at your site (if you have more than one installed).|
+|Use jGrowl redirect|	This will show any messages from the XOOPS Core on top of the page you’re in. In the past XOOPS would open a new page and close it.|
+|Check Templates for Modifications?	|If this option is enabled, module template .html files will be updated automatically if there are newer files under the themes/your theme/templates directory for the current theme. This should be turned off once the site goes public.|
+|Selectable themes|	If you have several themes installed you can choose those that visitors are available for visitors to select from. |
+|Default template set|	If you have more than one template set installed you can select which one you want to use for the site. See section 2.3.12 for more detail on templates.|
+|Username for anonymous users|	Choose a name for visitors that are not logged in – the default is ‘anonymous’.|
+|Use gzip compression?|	Gzip compression compresses files on server side. This means that files appear quicker in browsers. However, it puts a slight extra load on your server and you cannot have more than one script using it at the same time.|
+|Name for user cookies|	This cookie contains only a user name and is saved in a user pc for a year (if the user wishes). If a user has this cookie, their username will be automatically inserted in the login box the next time they visit the site. The default is ‘xoops_user’.|
+|Use custom session	|If enabled, this allows the site to ‘remember’ a member for a specified period of time. Members can leave the site and return without having to login again so long as they do not exceed the time limit (see session expiration below). Leaving sessions open in this way may consume some system resources. The default is ‘no’. |
+|Session name|	The name of session (valid only when 'use custom session' is enabled). The default is. xoops_session’.|
+|Session expiration	|The maximum idle time permitted for a custom session, expressed in minutes. This is only applicable if ‘use custom session’ is enabled, and it doesn’t work unless you are using PHP4.2.0 or later.|
+|Debug mode	|This provides several debug options that may be useful if you are experiencing problems with your website: -	PHP debug; -	mySQL/blocks debug; -	Smarty templates debug. Debug offers important information for tuning and faultfinding. More detailed guidelines are given elsewhere. A running website should have debug mode turned off since notifications may be displayed on your pages.|
+|Activate banner ads?|	The default is ‘yes’. If you turn banner ads off the flash banners will no longer appear on your site.|
+|Turn your site off?	|If you select ‘yes’ visitors will be rediected to a ‘this site is closed’ message of your choosing (see below). This is useful for gracefully closing your site to outsiders while you build it or conduct maintenance.|
+|Select groups that are allowed to access while the site is turned off	|You can allow certain groups to continue to access your site when it is closed.  Users in the default webmasters group are always granted access. Your “closed page” will display a login screen for access to selected groups.|
+|Reason for turning off the site|	Enter the text to be displayed to the public when your site is closed.|
+|Your IP address|	This IP will not counted as impression for banners.If you are charging customers to display their advertisements a certain number of times you should exclude your own IP address from being counted.|
+|Use SSL for login?	|Enable this if you wish to use a Secure Socket Layer login for your site.|
+|SSL Post variable name	|The name of variable used to transfer session value via POST. If you are unsure, set any name that is hard to guess.|
+|URL where SSL login page is located|	If you are using SSL, you need to enter the URL required the SSL login page, otherwise leave it blank.|
+|Default Comment Display Mode|	There are three options: <br>(1)	Nested: Comments are displayed in the order in which they are posted, and in full. However, child posts (replies to a particular comment) are indented and placed beneath their parent. This allows sub-threads of conversation to develop and makes it easier to follow them. <br><br>(2) Flat: Comments are displayed in the order they are posted and in full. People can reply to any post in a thread but their reply will always be displayed at the end of the list. This is the mode preferred by most people. It also helps maintain the focus of a thread. <br><br>(3) Threaded: Similar to nested. The full text of top-level comments is displayed in the order in which they were posted. Child posts appear in a list of titles beneath their parents - the main difference is that their full text is not displayed.|
+|Default Comments Display Order	|You can choose to have the newest or oldest comments to be displayed first.|
+|Enable IP bans?|	Users from specified IP addresses will not be able to view your site. This is useful for banning troublesome members. However, it can only work if they have a permanent IP address. It is not effective on people with dynamically assigned IPs – for example, anyone using a dial up modem.|
+|Enter IP addresses that should be banned from the site	|The syntax for entering IP addresses is as follows:<br>•	^aaa.bbb.ccc will disallow visitors with an IP that starts with aaa.bbb.ccc <br>•	aaa.bbb.ccc$ will disallow visitors with an IP that ends with aaa.bbb.ccc <br>•	aaa.bbb.ccc will disallow visitors with an IP that contains aaa.bbb.ccc  <br>Separate each with a pipe &#124;  character , This features is case insensitive and regex enabled.|
+|Module-wide Cache|	You can enable the caching of module contents here and specify the cache time for each module independently. Caching reduces load on the server and enhances site performance. However, changes to module contents will not be visible on the site until the cache period expires and the contents are re-cached. This is a common source of confusion for people setting up their site layout. Turn caching off while you are experimenting with the site so that you can see the changes you make. Setting module-wide cache will override module item level cache if any.|
