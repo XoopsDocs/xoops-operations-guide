@@ -9,7 +9,7 @@
    * [Content](book/Content.md)
    * [Language Files](book/Language Files.md)
    * [Themes and Templates](book/Themes and Templates.md)
-* [The Admin Interface](book/admininterface.md)
+* [The Admin Interface](book/adminInterface.md)
    * [Logging](book/Logging.md)
        * [As Site Administrator](book/As Site Administrator.md)
        * [As Registered User](book/As Registered User.md)    
