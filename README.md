@@ -19,7 +19,6 @@ The standard pronunciation of XOOPS follows English rules, and is pronounced [zo
 
 ### **Key features of XOOPS**
 
-
 ***Database-driven***
 
 XOOPS uses a relational database (currently MySQL) to store data required for running a web-based content management system.
