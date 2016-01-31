@@ -57,3 +57,9 @@ It was a Finalist for the Best Project of SourceForge 2008 Community Awards and 
 
 XOOPS has over 6,600,000 downloads from the SourceForge Website and is with that the #1 CMS (Content Management System) on SourceForge.
 
+
+## How to Contribute
+
+[You can contribute on GitHub](https://github.com/XoopsDocs/xoops-operations-guide). Changes will be [pushed to Gitbook.io automatically](https://www.gitbook.com/book/xoops/xoops-operations-guide/activity) when the [main repository](https://github.com/XoopsDocs/xoops-operations-guide) changes.
+
+Editing the book can be done either by updating the markdown files with a text editor, or opening the repository in [the Gitbook desktop app](https://github.com/GitbookIO/editor/blob/master/README.md). The desktop app will give you a live preview option.
