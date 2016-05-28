@@ -2,17 +2,17 @@ XOOPS Operations Guide
 =======
 ![Alternative text](en/assets/logoXoops2.jpg)
 
-**[XOOPS](http://www.xoops.org)** is a Content Management System (CSM) and a Web Portal program that allows administrators to easily create dynamic websites with great content and many outstanding features. It is an ideal tool for developing small to large dynamic community websites, intra company portals, corporate portals, weblogs and much more. It can be installed on an Internet host with a PHP-capable web server (e.g., Apache) and a database (e.g., MySQL).
+**[XOOPS](http://www.xoops.org)** is a Content Management System (CSM) and a Web Portal program that allows administrators to easily create dynamic websites with great content and many outstanding features. It is an ideal tool for developing small to large dynamic community websites, intra-company portals, corporate portals, weblogs and much more. It can be installed on an Internet host with a PHP-capable web server (e.g., Apache) and a database (e.g., MySQL).
 
-**The main Project websites is [www.xooops.org](http://xoops.org)**
+**The main project website is [www.xoops.org](http://xoops.org)**
 
 XOOPS is released under the terms of the GNU General Public License (GPL) and is free to use and modify. It is free to redistribute as long as you abide by the distribution terms of the GPL.
 
 **What XOOPS stands for:**
 
-XOOPS is an acronym of e<strong>X</strong>tensible <strong>O</strong>bject <strong>O</strong>riented <strong>P</strong>ortal <strong>S</strong>ystem. Though started as a portal system, XOOPS is in fact striving steadily on the track of Content Management System. It can serve as a web framework for use by small, medium and large sites.
+XOOPS is an acronym of e<strong>X</strong>tensible <strong>O</strong>bject <strong>O</strong>riented <strong>P</strong>ortal <strong>S</strong>ystem. Though started as a portal system, XOOPS is in fact striving steadily on the track of Content Management System. It can serve as a web framework for use by small, medium, and large sites.
 
-It is highly scalable, from a personal weblog or journal through a community website to an enterprise installation. It has numerous modules that can be used to create all the basic functionality required of the system, e.g. News, Forums, Downloads, MyLinks etc.  Customized modules can also be developed by users and integrated seamlessly with the core to serve specific needs such as eCommerrce.
+It is highly scalable, from a personal weblog or journal through a community website to an enterprise installation. It has numerous modules that can be used to create all the basic functionality required of the system, e.g. News, Forums, Downloads, MyLinks etc.  Customized modules can also be developed by users and integrated seamlessly with the core to serve specific needs such as eCommerce.
 
 **Pronunciation guide**
 The standard pronunciation of XOOPS follows English rules, and is pronounced [zoo'ps].
