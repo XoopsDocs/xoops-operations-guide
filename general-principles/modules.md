@@ -1,0 +1,8 @@
+# Modules
+
+As mentioned before, modules are the software constructs that, taking advantage of the infrastructure that XOOPS provides, let the webmaster offer the site’s users dynamic or static content generated using a Web interface that more often that not is very easy to use.
+
+Part of the power of XOOPS resides in the way modules are managed. The webmaster can easily install, uninstall, activate or deactivate any specific module \(except the System module, for obvious reasons\). It’s also possible to rename modules, and to determine the order in which they will appear to the end user in the site’s menu –if you want them to appear at all–, because you can also provide hidden functionality, defining active modules that have no visible presence to the casual user. For instance, you could install a News module, edit its xoops\_version.php file so that the installation directory is something difficult to guess \(let’s say: **gaeqhweas**\), and then define this module as not visible by defining its menu position as zero \(‘0’\). Then you could send private messages to an elite bunch of your users and tell them to access that directory typing the address in the URL field, something like [http://www.yoursite.com/gaeqhweas](http://www.yoursite.com/gaeqhweas). They could access that News module as a regular News module.
+
+XOOPS has been offered as a framework or operating core, and XOOPS webmasters will decide what modules to install. There will be, on the other hand, a reviewing process that will serve to identify modules built by xoopsers and that operate correctly under XOOPS framework. These modules will be marked with an “approved” seal and as such will have the XOOPS core team endorsement as secure to use in a XOOPS Web site.
+
